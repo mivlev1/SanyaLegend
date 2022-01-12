@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SanyaLegend/static/css/main.073c9b0a.css",
+    "main.js": "/SanyaLegend/static/js/main.f4990d21.js",
+    "static/js/787.edd59a96.chunk.js": "/SanyaLegend/static/js/787.edd59a96.chunk.js",
+    "static/media/logo.svg": "/SanyaLegend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SanyaLegend/index.html",
+    "main.073c9b0a.css.map": "/SanyaLegend/static/css/main.073c9b0a.css.map",
+    "main.f4990d21.js.map": "/SanyaLegend/static/js/main.f4990d21.js.map",
+    "787.edd59a96.chunk.js.map": "/SanyaLegend/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f4990d21.js"
+  ]
+}
